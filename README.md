@@ -1,2 +1,2 @@
 # ZmeikaGame
- browser snake game written by vanilla js
+ browser snake game written using vanilla js
